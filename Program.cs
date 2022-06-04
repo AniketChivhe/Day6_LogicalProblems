@@ -40,23 +40,7 @@ namespace Day6_LogicalProblems
                     DaysOfWeek daysOfWeek = new DaysOfWeek();
                     daysOfWeek.ReadInput();
                     break;
-
-
-            }
-            
-
-
-            
-
-            
-
-            
-
-            
-
-            
-
-            
+            }  
         }
     }
 }
